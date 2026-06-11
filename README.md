@@ -1,3 +1,24 @@
+# Autonomous Thermal-Targeting Foam Launcher
+
+This repository is a fork of a Cal Poly ME 405 team project completed by Kevin Jung, Aidan Schwing, and Noah Fitzgerald.
+
+The project was a fixed-position, single-axis foam-ball launcher designed for a duel-style competition. The robot began facing backward, rotated 180 degrees, targeted an opponent using a thermal camera, and fired NERF Rival balls using a custom shooting mechanism.
+
+Full project documentation: https://me-405-w-2024.github.io/term_project/
+
+## My Contributions
+
+* Contributed to system modeling and controls analysis for the rotating aiming mechanism
+* Supported integration of the thermal camera, stepper-driven aiming platform, servo ball-indexing mechanism, and BLDC flywheel launcher
+* Helped test and document mechanical and integration challenges including shaft alignment, belt tension, power consumption, and I2C signal noise
+* Contributed to project documentation and final performance analysis
+
+---
+
+The original project README is preserved below for project history and collaboration context.
+
+---
+
 # Term Project for ME405 at California Polytechnic University
 
 ## Contributors: Kevin Jung, Aidan Schwing, Noah Fitzgerald
