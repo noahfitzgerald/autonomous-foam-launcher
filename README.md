@@ -1,6 +1,6 @@
 # Autonomous Thermal-Targeting Foam Launcher
 
-This repository is a fork of a Cal Poly ME 405 team project completed by Kevin Jung, Aidan Schwing, and Noah Fitzgerald.
+This repository is a fork of a Cal Poly ME 405 team project completed by Noah Fitzgerald, Kevin Jung, and Aidan Schwing.
 
 The project was a fixed-position, single-axis foam-ball launcher designed for a duel-style competition. The robot began facing backward, rotated 180 degrees, targeted an opponent using a thermal camera, and fired NERF Rival balls using a custom shooting mechanism.
 
