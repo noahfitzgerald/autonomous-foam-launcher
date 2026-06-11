@@ -8,16 +8,17 @@ Full project documentation: https://me-405-w-2024.github.io/term_project/
 
 ## My Contributions
 
-* Contributed to system modeling and controls analysis for the rotating aiming mechanism
-* Supported integration of the thermal camera, stepper-driven aiming platform, servo ball-indexing mechanism, and BLDC flywheel launcher
-* Helped test and document mechanical and integration challenges including shaft alignment, belt tension, power consumption, and I2C signal noise
-* Contributed to project documentation and final performance analysis
+- Contributed to system modeling and controls analysis for the rotating aiming mechanism
+- Supported integration of the thermal camera, stepper-driven aiming platform, servo ball-indexing mechanism, and BLDC flywheel launcher
+- Helped test and document mechanical and integration challenges including shaft alignment, belt tension, power consumption, and I2C signal noise
+- Contributed to project documentation and final performance analysis
 
 ---
+
+## Original Team README
 
 The original project README is preserved below for project history and collaboration context.
 
----
 
 # Term Project for ME405 at California Polytechnic University
 
